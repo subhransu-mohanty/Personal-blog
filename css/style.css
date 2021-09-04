@@ -767,6 +767,7 @@ footer h1 {
     width: 100%;
     display: block;
     background: transparent;
+    background-image: linear-gradient(rgb(16, 15, 15), rgb(204, 204, 43));
     border-top: 0.1rem solid red;
   }
   html {
